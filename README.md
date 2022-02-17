@@ -1,0 +1,2 @@
+# Patika_SQL_Odevler1
+Patika_SQL_Odevler
